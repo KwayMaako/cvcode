@@ -1,0 +1,119 @@
+nav{
+
+}
+
+body{
+  background: rgb(245,245,245);
+  color: black;
+  font-size: 15px;
+  font-family: Aleo;
+}
+
+p.intro{
+	font-family: Open Sans;
+	font-size: 25px;
+	color: grey;
+	text-align: center;
+	padding-top: 60px;
+	padding-bottom: 30px;
+
+}
+h1{
+	font-family: Zimbra;
+	text-align: center;
+	color: lightgrey;
+	font-weight: lighter;
+	font-size: 100px;
+	font-style:
+
+}
+
+.banner {
+  background-image: linear-gradient(rgba(39, 71, 118, 0.6), rgba(39, 71, 118, 0.6)), url(../../images/berlin.jpg);
+  background-size: cover;
+  background-position: center;
+  color: white;
+  text-shadow: 0 0 10px rgba(0,0,0,0.2);
+  padding: 80px 0px;
+}
+
+
+.banner p {
+  font-size: 25px;
+  margin-bottom: 0;
+  opacity: 0.8;
+  font-weight: lighter;
+}
+
+
+}
+
+img.halles{
+	border-image-width: center;
+
+}
+p{
+	margin: 0 auto;
+	width: 0 auto;
+}
+
+.box{
+	background: url('asphalt.jpg') no-repeat center fixed;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	background: lightpink;
+	padding: 100px;
+	margin: 100px;
+}
+
+
+.menu1{ 
+	color: lightgrey;
+	font-style: 
+	font-size: 130px;
+	text-decoration: none;
+	background-color: grey;
+
+}
+.menu1:hover{
+	text-decoration: none;
+	color: green;
+
+}
+
+
+.tabs{
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: space-around;
+
+}
+
+
+
+}
+
+	
+
+}
+
+@media(max-width: 992px) {
+  .container {
+    width: 700px;
+  }
+}
+@media(max-width: 768px) {
+  .container {
+    width: 500px;
+  }
+}
+@media(max-width: 480px) {
+  .container {
+    width: 350px;
+  }
+}
+
+
+
+
